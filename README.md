@@ -1,5 +1,7 @@
 # TER_L2
 
+Intitulé du projet : IA_Puissance4
+
 Dates du projet : 20/01/2020 - 30/04/2020
 
 Descrpition du projet réalisé :
