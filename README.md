@@ -13,6 +13,6 @@ Brièvement, l'implémentation d'un tel algorithme a pour but de maximiser les c
 via l'assignation d'un max et d'un min pour chaque état correspondant à la grille de jeu pour le Puissance 4.
 
 Des tests ont été réalisés sur des grilles de différentes dimensions avec un nombre de pions à aligner défini. À partir de l'implémentation du minimax, la boucle
-de jeu est effective pour une grille 3*3 et 4*4 avec un nombre de pions à aligner inférieur à 4.
+de jeu est effective pour une grille 3 * 3 et 4 * 4 avec un nombre de pions à aligner inférieur à 4.
 
 Une autre approche a été étudiée, la méthode " Monte-Carlo ". Son implémentation n'a pas pu être faite mais l'idée était d'en apprendre davantage sur celle-ci et de la confronter avec le Minimax.
