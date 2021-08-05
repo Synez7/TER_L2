@@ -4,7 +4,7 @@ Intitulé du projet : IA_Puissance4
 
 Dates du projet : 20/01/2020 - 30/04/2020
 
-Descrpition du projet réalisé :
+Description du projet réalisé :
 
 Ce projet de programmation est consacré au développement d'une IA pour le jeu du " Connect 4 ", Puissance 4 en Anglais. 
 L'algorithme d'exploration utilisé est le Minimax, celui-ci consiste à passer en revue tout le champ des possibles dans un arbre de recherche comme structure de données, pour un nombre limité de coups.
