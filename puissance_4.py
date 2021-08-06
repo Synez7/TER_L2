@@ -303,8 +303,7 @@ def grilleApparition(etat):
 
 largeur = len(etat[0]) * taille_case         
 hauteur = len(etat) * taille_case
-grille = pygame.display.set_mode((600, 400))
-etat = [[0,0,0],[0,0,0],[0,0,0]]
+grille = pygame.display.set_mode((largeur, hauteur))
 print(grilleApparition(etat))
 
 
