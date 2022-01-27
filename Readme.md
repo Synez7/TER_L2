@@ -27,6 +27,6 @@ chmod +x code_final_projet.py
 python3 code_final_projet.py <ttt ou p4> <dimension> <nb pions à aligner>
 
 ```
-## Remarque 
+# Remarque 
 Pour la dimension, il faut saisir soit 3 soit 4 vu nos contraintes d'implémentation.
 Il faut aussi penser à choisir un nombre de pions à aligner inférieur à 4 pour le bon fonctionnement du programme.
