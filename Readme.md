@@ -3,6 +3,7 @@
 <h5 align="center"> Dates du projet : 20/01/2020 - 30/04/2020 </h5>
 
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 
 ## Description du projet réalisé 
