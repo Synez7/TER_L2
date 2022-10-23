@@ -18,6 +18,9 @@ Des tests ont été réalisés sur des grilles de différentes dimensions avec u
 
 Une autre approche a été étudiée, la méthode " Monte-Carlo ". Son implémentation n'a pas pu être faite mais l'idée était d'en apprendre davantage sur celle-ci et de la confronter avec le Minimax.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+
 ## Guide d'exécution 
 
 Comment exécuter le programme "code_final_projet.py" ?
@@ -29,6 +32,9 @@ chmod +x code_final_projet.py
 python3 code_final_projet.py <ttt ou p4> <dimension> <nb pions à aligner>
 
 ```
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
 # Remarque 
 Pour la dimension, il faut saisir soit 3 soit 4 vu nos contraintes d'implémentation.
 Il faut aussi penser à choisir un nombre de pions à aligner inférieur à 4 pour le bon fonctionnement du programme.
