@@ -1,8 +1,9 @@
-### TER_L2
+<h1 align="center"> HLIN405 - TER_L2 </h1>
+<h3 align="center"> Intitulé du projet : IA_Puissance4 </h3>
+<h5 align="center"> Dates du projet : 20/01/2020 - 30/04/2020 </h5>
 
-Intitulé du projet : IA_Puissance4
 
-Dates du projet : 20/01/2020 - 30/04/2020
+
 
 ## Description du projet réalisé 
 
